@@ -1,9 +1,4 @@
-# =================================================================
-# CMPUT 175 - Introduction to the Foundations of Computation II
-# Lab 2 - Debugging: Tic-Tac-Toe
-#
-# ~ Created by CMPUT 175 Team ~
-# =================================================================
+
 import time, os
 from ticTacToe import TicTacToe
 
