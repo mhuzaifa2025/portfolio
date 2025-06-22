@@ -1,9 +1,4 @@
-# =================================================================
-# CMPUT 175 - Introduction to the Foundations of Computation II
-# Lab 4 - Web Browser
-#
-# ~ Created by CMPUT 175 Team ~
-# =================================================================
+
 
 from stack import Stack
 
